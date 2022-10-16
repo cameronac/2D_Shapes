@@ -5,8 +5,6 @@ using UnityEngine;
 
 /* Used To Create Basic 2D Shapes
     Made up of 4 Types: Triangle, Line, LineCircle, and Circle (Could add Square/Rectangle)
-    Any Coordinate in the Z axis will be set to 0. 
-    To bound the mesh data to 2D space.
 */
 namespace Shapes2D {
 
